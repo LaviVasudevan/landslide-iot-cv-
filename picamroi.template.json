@@ -1,0 +1,19 @@
+{
+    "roi_coordinates": [
+        [320, 180],
+        [960, 180],
+        [960, 540],
+        [320, 540]
+    ],
+    "camera_id": "CAM_01",
+    "location": "your_location_here",
+    "setup_date": "YYYY-MM-DD HH:MM:SS",
+    "thresholds": {
+        "motion_threshold": 1.5,
+        "alignment_threshold": 0.9,
+        "persistence_required": 3,
+        "motion_pixel_threshold": 200
+    },
+    "image_width": 1280,
+    "image_height": 720
+}

@@ -1,0 +1,9 @@
+# Raspberry Pi 5 — CV Node and Central Node
+# Install with: pip install -r requirements.txt --break-system-packages
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+picamera2>=0.3.12
+spidev>=3.6
+lgpio>=0.2.2.0
+scipy>=1.11.0
